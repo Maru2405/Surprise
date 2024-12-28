@@ -17,7 +17,7 @@ const App = () => {
       <div className="border border-neutral-900 h-1/2 w-1/2 ml-28 mt-44 rounded-3xl overflow-hidden absolute z-10 lg:ml-96 lg:mt-60">
         <div className="flex justify-center content-center">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMfJwbO-Mef2Uo7WWvCpMStNLSWaBS0dr5A&s" alt="" className="h-full w-full absolute z-20" />
-          <p className="relative z-20 pt-12 pr-9 pl-9 h-full text-xs">Hello There!<br></br>
+          <p className="relative z-20 pt-9 pr-9 pl-9 h-full text-xs">Hello There!<br></br>
             After a long time again because of my Stupidity.It's been eons.I know me khup kahi bolto khup hurt karto khupch rude ahe Stone cold.As u know mi khup khota bolto tasch je kahi mean rude asta that's all just a Big fat lie.I really madly Intensly Hystericaly Overwhelmingly Impulsively Obsessively Desperately Unrestrainedly Lunaticly Maniacally Psychotically Psychopathically Chaotically Love you as a friend as ur Bestie.I am really sorry for everything.
             Thank you for your everything.<br></br>Yours Truly<br></br>-- Stone Cold MARU
           </p>
