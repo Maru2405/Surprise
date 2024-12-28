@@ -11,6 +11,7 @@ import img8 from "./assets/img8.jpg"
 import img9 from "./assets/img9.jpg"
 import img10 from "./assets/img10.jpeg"
 import img11 from "./assets/IMG-20241012-WA0005.jpg"
+import img12 from "./assets/WhatsApp Image 2024-12-19 at 2.06.37 PM.jpeg"
 
 const App = () => {
   return (
@@ -76,6 +77,7 @@ const App = () => {
             <Card img={img7} />
             <Card img={img8} />
             <Card img={img9} />
+            <Card img={img12} />
           </motion.div>
         </div>
       </div>
