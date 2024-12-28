@@ -10,6 +10,7 @@ import img7 from "./assets/img7.jpg"
 import img8 from "./assets/img8.jpg"
 import img9 from "./assets/img9.jpg"
 import img10 from "./assets/img10.jpeg"
+import img11 from "./assets/IMG-20241012-WA0005.jpg"
 
 const App = () => {
   return (
@@ -39,6 +40,7 @@ const App = () => {
             <Card img={img1} />
             <Card img={img2} />
             <Card img={img3} />
+            <Card img={img11} />
           </motion.div>
         </div>
 
@@ -56,6 +58,7 @@ const App = () => {
             <Card img={img4} />
             <Card img={img5} />
             <Card img={img6} />
+            <Card img={img10} />
           </motion.div>
         </div>
 
